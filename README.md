@@ -1,1 +1,1 @@
-# unix_exam
+Запукс:  docker-compose up -d
